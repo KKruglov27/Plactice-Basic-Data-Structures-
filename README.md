@@ -1,0 +1,64 @@
+student.txt - текстовый файл.
+
+1.	Dovahkin | Course:	Python
+2.	Konstantin | Course:	Python
+3.	Diluc | Course:	Java
+4.	Zelifia | Course:	C++
+5.	Bobby | Course:	C++
+6.	Krezens | Course: Java
+
+Запуск:
+
+         Main Menu
+   ==> Press 1 for add new student 
+   ==> Press 2 for search a student
+   ==> Press 3 for display all student
+   ==> press 4 for Exit
+Enter your choice = 1
+Enter the id number = 7
+Enter the name = Yagami
+Enter the module name C++
+Record has been saved successfully
+         Main Menu
+   ==> Press 1 for add new student 
+   ==> Press 2 for search a student
+   ==> Press 3 for display all student
+   ==> press 4 for Exit
+Enter your choice = 2
+Enter the Module to search = Java
+3.	Diluc | Course:	Java
+6.	Krezens | Course: Java
+
+Record found
+         Main Menu
+   ==> Press 1 for add new student 
+   ==> Press 2 for search a student
+   ==> Press 3 for display all student
+   ==> press 4 for Exit
+Enter your choice = 3
+
+ id 	 name 	 module
+1.	Dovahkin | Course:	Python
+2.	Konstantin | Course:	Python
+3.	Diluc | Course:	Java
+4.	Zelifia | Course:	C++
+5.	Bobby | Course:	C++
+6.	Krezens | Course: Java
+7.	Yagami | Course:	C++
+
+         Main Menu
+   ==> Press 1 for add new student 
+   ==> Press 2 for search a student
+   ==> Press 3 for display all student
+   ==> press 4 for Exit
+Enter your choice = 4
+
+Изменения в файле:
+
+1.	Dovahkin | Course:	Python
+2.	Konstantin | Course:	Python
+3.	Diluc | Course:	Java
+4.	Zelifia | Course:	C++
+5.	Bobby | Course:	C++
+6.	Krezens | Course: Java
+7.	Yagami | Course:	C++
