@@ -1,0 +1,59 @@
+
+
+Файл products.txt, первый запуск:
+
+Spaghetti, 3.4, Groceries
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
+Soup set, 0.2, Ready-witted
+Cottage cheese, 0.4, For children
+
+Второй запуск:
+
+Spaghetti, 3.4, Groceries
+Продукт "Potato, 50.5, Vegetables" уже есть в магазине
+Продукт "Spaghetti, 3.4, Groceries" уже есть в магазине
+Продукт "Potato, 5.5, Vegetables" уже есть в магазине
+Продукт "Soup set, 0.2, Ready-witted" уже есть в магазине
+Продукт "Cottage cheese, 0.4, For children" уже есть в магазине
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
+Soup set, 0.2, Ready-witted
+Cottage cheese, 0.4, For children
+
+Третий запуск, с 's1.add_products(p1, p2, p3, p4, p5, p6, p7)' вместо 's1.add_products(p1, p2, p3, p4, p5)'
+
+Spaghetti, 3.4, Groceries
+Продукт "Potato, 50.5, Vegetables" уже есть в магазине
+Продукт "Spaghetti, 3.4, Groceries" уже есть в магазине
+Продукт "Potato, 5.5, Vegetables" уже есть в магазине
+Продукт "Soup set, 0.2, Ready-witted" уже есть в магазине
+Продукт "Cottage cheese, 0.4, For children" уже есть в магазине
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
+Soup set, 0.2, Ready-witted
+Cottage cheese, 0.4, For children
+Spaghetti, 2.5, Groceries
+Cottage cheese, 0.4, Dairy products
+
+Четверный запуск, с тем же что и в третьем:
+
+Spaghetti, 3.4, Groceries
+Продукт "Potato, 50.5, Vegetables" уже есть в магазине
+Продукт "Spaghetti, 3.4, Groceries" уже есть в магазине
+Продукт "Potato, 5.5, Vegetables" уже есть в магазине
+Продукт "Soup set, 0.2, Ready-witted" уже есть в магазине
+Продукт "Cottage cheese, 0.4, For children" уже есть в магазине
+Продукт "Spaghetti, 2.5, Groceries" уже есть в магазине
+Продукт "Cottage cheese, 0.4, Dairy products" уже есть в магазине
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
+Soup set, 0.2, Ready-witted
+Cottage cheese, 0.4, For children
+Spaghetti, 2.5, Groceries
+Cottage cheese, 0.4, Dairy products
+
